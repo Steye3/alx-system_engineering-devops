@@ -1,1 +1,1 @@
-What every script do
+.
